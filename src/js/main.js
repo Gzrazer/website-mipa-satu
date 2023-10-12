@@ -3,7 +3,7 @@ jarallax(document.querySelectorAll('.jarallax'), {
 });
 
 var typed = new Typed('.herotext',{
-    strings:["yang tidak kelihatan di foto yang sabar😅", "Selamat datang di website kelas kami"],
+    strings:["yang tidak kelihatan di foto yang sabar😅","Scroll ke bawah 👇👇👇","Selamat datang di website kelas kami"],
     backSpeed: 40,
     typeSpeed: 70,
     loop: true,

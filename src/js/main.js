@@ -12,6 +12,6 @@ var typed = new Typed('.herotext',{
   });
 
   document.getElementById('sosmed-ig').onclick = function () {
-      window.open("https://instagram.com/smkn1entikong_?igshid=YWYwM2I1ZDdmOQ==", "_blank")
+      window.open("https://instagram.com/tkr.forzaachtzehn?igshid=YWYwM2I1ZDdmOQ==", "_blank")
   }
 
